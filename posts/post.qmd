@@ -5,13 +5,19 @@ format:
   html:
     df-print: paged
     toc: true
-text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-  exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-  irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-  pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-  deserunt mollit anim id est laborum.
-title: Another blogpost example
+text: गुलाबी रंग एक बहुत ही खूबसूरत और मोहक रंग है, जो स्नेह, कोमलता, और प्रेम का प्रतीक माना जाता है। यह रंग लाल और सफेद के संयोजन से बनता है और इसकी छटा नरम और आकर्षक होती है। 
+title: गुलाबी रंग
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+
+
+गुलाबी रंग एक बहुत ही खूबसूरत और मोहक रंग है, जो स्नेह, कोमलता, और प्रेम का प्रतीक माना जाता है। यह रंग लाल और सफेद के संयोजन से बनता है और इसकी छटा नरम और आकर्षक होती है। 
+
+गुलाबी रंग को अक्सर महिलाओं और लड़कियों के साथ जोड़ा जाता है, लेकिन यह रंग सभी उम्र और सभी लिंग के लोगों को आकर्षित करता है। गुलाबी रंग के वस्त्र, सजावट और फूलों की मांग हमेशा बनी रहती है, खासकर प्रेम और रोमांस के अवसरों पर जैसे वेलेंटाइन डे और शादी-ब्याह में।
+
+गुलाबी रंग के मनोवैज्ञानिक प्रभाव भी बहुत खास होते हैं। यह रंग मन को शांत और स्थिर करने में मदद करता है। गुलाबी रंग को देखकर मन में सकारात्मक और सुखद भावनाएं उत्पन्न होती हैं। यही कारण है कि बच्चों के कमरों और अस्पतालों में इस रंग का उपयोग अधिक होता है।
+
+भारत में, गुलाबी रंग का विशेष महत्व है। जयपुर शहर को "गुलाबी नगरी" के नाम से जाना जाता है, क्योंकि यहां की अधिकांश इमारतें गुलाबी रंग में रंगी हुई हैं। यह शहर अपने अद्वितीय गुलाबी वास्तुकला के कारण दुनिया भर में प्रसिद्ध है।
+
+अतः, गुलाबी रंग न केवल अपनी सुंदरता के लिए बल्कि अपने गहरे अर्थों और प्रभावों के लिए भी विशेष है। यह रंग प्रेम, स्नेह, और कोमलता का प्रतीक बनकर हमारे जीवन को रंगीन और आनंदमय बनाता है।

@@ -7,11 +7,46 @@
     "text": "2024\n\nAdvanced Tools for Literate Programming and Machine Learning, August 6-7, 2024"
   },
   {
+    "objectID": "posts/post.html",
+    "href": "posts/post.html",
+    "title": "गुलाबी रंग",
+    "section": "",
+    "text": "गुलाबी रंग एक बहुत ही खूबसूरत और मोहक रंग है, जो स्नेह, कोमलता, और प्रेम का प्रतीक माना जाता है। यह रंग लाल और सफेद के संयोजन से बनता है और इसकी छटा नरम और आकर्षक होती है।\nगुलाबी रंग को अक्सर महिलाओं और लड़कियों के साथ जोड़ा जाता है, लेकिन यह रंग सभी उम्र और सभी लिंग के लोगों को आकर्षित करता है। गुलाबी रंग के वस्त्र, सजावट और फूलों की मांग हमेशा बनी रहती है, खासकर प्रेम और रोमांस के अवसरों पर जैसे वेलेंटाइन डे और शादी-ब्याह में।\nगुलाबी रंग के मनोवैज्ञानिक प्रभाव भी बहुत खास होते हैं। यह रंग मन को शांत और स्थिर करने में मदद करता है। गुलाबी रंग को देखकर मन में सकारात्मक और सुखद भावनाएं उत्पन्न होती हैं। यही कारण है कि बच्चों के कमरों और अस्पतालों में इस रंग का उपयोग अधिक होता है।\nभारत में, गुलाबी रंग का विशेष महत्व है। जयपुर शहर को “गुलाबी नगरी” के नाम से जाना जाता है, क्योंकि यहां की अधिकांश इमारतें गुलाबी रंग में रंगी हुई हैं। यह शहर अपने अद्वितीय गुलाबी वास्तुकला के कारण दुनिया भर में प्रसिद्ध है।\nअतः, गुलाबी रंग न केवल अपनी सुंदरता के लिए बल्कि अपने गहरे अर्थों और प्रभावों के लिए भी विशेष है। यह रंग प्रेम, स्नेह, और कोमलता का प्रतीक बनकर हमारे जीवन को रंगीन और आनंदमय बनाता है।"
+  },
+  {
+    "objectID": "papers.html",
+    "href": "papers.html",
+    "title": "Papers",
+    "section": "",
+    "text": "2024\n\nResearcher (2024). A very Cool AI Paper. arXiv 2402.10951."
+  },
+  {
     "objectID": "blog.html",
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Blogpost Example\n\n\n\n\n\n\nblog post\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnother blogpost example\n\n\n\n\n\n\nblog post\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA sample work\n\n\n\n\n\n\nblog with code\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Blogpost Example\n\n\n\n\n\n\nblog post\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nगुलाबी रंग\n\n\n\n\n\n\nblog post\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA sample work\n\n\n\n\n\n\nblog with code\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nتعال وتذوق شيئًا جديدًا\n\n\n\n\n\n\nblog post\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I’m Amrutha Ajish, a second year Computer Science and Engineering student doing minor in Computational Mathematics with a passion for pushing the boundaries of knowledge in AI. With a strong background in Computer Science, my research focuses on Practive Oriented AI, aiming to contribute to meaningful advancements and solutions."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My Personal Webpage",
+    "section": "",
+    "text": "Welcome to my personal page! I thrive on solving complex problems and love turning innovative ideas into reality. Whether I’m coding, designing, or exploring new fields, I bring dedication and curiosity to everything I do. Outside of work, I enjoy hiking, reading science fiction, and experimenting with new recipes. Here, you’ll find insights into my projects, interests, and the journey I’m on to make a positive impact in the world. Thank you for visiting, and I hope you find something that inspires you!\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "posts/another_post.html",
+    "href": "posts/another_post.html",
+    "title": "Blogpost Example",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
     "objectID": "posts/post_with_code.html",
@@ -21,10 +56,10 @@
     "text": "For a demonstration of a line plot on a polar axis, see Figure 1.\n\n\nCode\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(\n  subplot_kw = {'projection': 'polar'} \n)\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()\n\n\n\n\n\n\n\n\nFigure 1: A line plot on a polar axis"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "posts/recipe.html",
+    "href": "posts/recipe.html",
+    "title": "تعال وتذوق شيئًا جديدًا",
     "section": "",
-    "text": "I’m a second year Computer Science and Engineering student doing minor in Computational Mathematics with a passion for pushing the boundaries of knowledge in AI. With a strong background in Computer Science, my research focuses on Practive Oriented AI, aiming to contribute to meaningful advancements and solutions."
+    "text": "وصفة برياني دم حيدر أباد\nالمكونات:\nلتحضير الأرز: - 2 كوب من أرز بسمتي طويل الحبة - 4 أكواب من الماء - 1 ملعقة صغيرة من الملح - 2-3 حبات هيل - 2 ورقات غار - 4-5 حبات قرنفل - 1 عود قرفة\nلتحضير الدجاج: - 1 كيلوغرام من قطع الدجاج - 1 كوب من الزبادي - 2 بصل متوسط، مقطع شرائح ومقلي حتى يصبح ذهبي - 2 طماطم متوسطة، مفرومة - 4-5 فصوص ثوم، مفرومة - 1 قطعة زنجبيل، مفرومة - 2-3 حبات فلفل أخضر، مفرومة - 1/2 كوب من النعناع الطازج، مفروم - 1/2 كوب من الكزبرة الطازجة، مفرومة - 1 ملعقة صغيرة من مسحوق الكركم - 1 ملعقة صغيرة من مسحوق الفلفل الأحمر - 1 ملعقة صغيرة من مسحوق الكمون - 1 ملعقة صغيرة من مسحوق الكزبرة - 1 ملعقة صغيرة من جارام ماسالا - 2-3 ملاعق كبيرة من زيت\nلتحضير الطبقات: - 1/2 كوب من الحليب - قليل من خيوط الزعفران (منقوعة في الحليب الدافئ) - 1/4 كوب من السمن أو الزبدة - ماء ورد (اختياري) - شرائح بصل مقلي (للتزيين) - كزبرة مفرومة ونعناع مفروم (للتزيين)\nطريقة التحضير:\n\nتحضير الأرز:\n\nاغسل الأرز جيداً وانقعه في الماء لمدة 30 دقيقة.\nاغلي 4 أكواب من الماء في قدر كبير وأضف إليه الملح، الهيل، ورق الغار، القرنفل، وعيدان القرفة.\nأضف الأرز المنقوع واطبخه حتى يكون نصف ناضج. صفي الأرز واتركه جانباً.\n\nتحضير الدجاج:\n\nفي وعاء كبير، امزج الزبادي، الزنجبيل، الثوم، الفلفل الأخضر، الكركم، مسحوق الفلفل الأحمر، مسحوق الكمون، مسحوق الكزبرة، والجارام ماسالا.\nأضف قطع الدجاج إلى المزيج واتركه يتبل لمدة 1-2 ساعة.\nفي مقلاة كبيرة، سخن الزيت وأضف البصل المقلي والطماطم واطبخ حتى تصبح الطماطم طرية.\nأضف الدجاج المتبل واطبخه حتى ينضج.\n\nتجهيز الطبقات:\n\nفي وعاء عميق، ضع طبقة من الأرز المسلوق ثم طبقة من الدجاج المطبوخ.\nكرر العملية حتى تنتهي من كل الأرز والدجاج.\nرش الحليب الممزوج بالزعفران فوق الطبقات.\nرش السمن أو الزبدة فوق الطبقات.\nأضف ماء الورد إذا كنت تستخدمه.\nغط الوعاء بإحكام واطبخه على نار منخفضة لمدة 20-25 دقيقة (يمكنك استخدام العجينة لإحكام الغطاء إذا لزم الأمر).\n\nالتقديم:\n\nقدم البرياني مزيناً بشرائح البصل المقلي، الكزبرة المفرومة، والنعناع المفروم.\n\n\nبالعافية!"
   }
 ]
