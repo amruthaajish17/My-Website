@@ -1,7 +1,50 @@
 ---
-title: "Workshops Attended"
+title: "More Details"
 ---
 
-### 2024
+## Internships and Projects
+- Internship in Artificial Intelligence
+ 
+  QNAYDS LLP November 2023
 
-- `Advanced Tools for Literate Programming and Machine Learning`, August 6-7, 2024 
+- Internship in Cyber Security
+
+QNAYDS LLP
+July 2024
+
+## Achievements and Activities
+
+- Capture The Flag Competition by UST
+February 2024
+
+- K-Disc YIP Idea Submission
+February 2024
+
+- First Prize in Saintgits AI Quiz
+December 2023
+
+- Second Prize in Saintgits Exponentia’23
+December 2023
+
+- IELTS 
+Score: 8 Bands
+(August 2023)
+
+
+## Workshops and Seminars
+
+- UST Workshop on Cybersecurity
+February 2024
+
+- Project Management Institute – WINGS 2023 Conclave
+September 2023
+
+- NPTEL Workshop- AI for Signal Processing
+July 2024
+
+## Soft Skills
+- Diligence
+- Adaptability
+- Commitment
+- Problem-solving
+- Creativity

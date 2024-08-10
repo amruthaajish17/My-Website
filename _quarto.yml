@@ -9,9 +9,9 @@ website:
       - href: index.qmd
         text: About Me
       - href: papers.qmd
-        text: Papers
+        text: Education
       - href: workshops.qmd
-        text: Workshops
+        text: More Details
       - href: blog.qmd
         text: Blog
       

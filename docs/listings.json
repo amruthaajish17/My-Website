@@ -2,9 +2,7 @@
   {
     "listing": "/blog.html",
     "items": [
-      "/posts/Education.html",
       "/posts/post.html",
-      "/posts/post_with_code.html",
       "/posts/recipe.html"
     ]
   }

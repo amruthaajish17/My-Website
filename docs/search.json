@@ -2,9 +2,9 @@
   {
     "objectID": "workshops.html",
     "href": "workshops.html",
-    "title": "Workshops Attended",
+    "title": "More Details",
     "section": "",
-    "text": "2024\n\nAdvanced Tools for Literate Programming and Machine Learning, August 6-7, 2024"
+    "text": "Internship in Artificial Intelligence\nQNAYDS LLP November 2023\nInternship in Cyber Security\n\nQNAYDS LLP July 2024"
   },
   {
     "objectID": "posts/post.html",
@@ -16,16 +16,16 @@
   {
     "objectID": "papers.html",
     "href": "papers.html",
-    "title": "Papers",
+    "title": "Education",
     "section": "",
-    "text": "2024\n\nResearcher (2024). A very Cool AI Paper. arXiv 2402.10951."
+    "text": "Saintgits College of Engineering, Kottayam, Kerala August 2023 – Present\n\n1st Sem CGPA: 10/10\n2nd Sem CGPA: 9.95/10"
   },
   {
     "objectID": "blog.html",
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Blogpost Example\n\n\n\n\n\n\nblog post\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nगुलाबी रंग\n\n\n\n\n\n\nblog post\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA sample work\n\n\n\n\n\n\nblog with code\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nتعال وتذوق شيئًا جديدًا\n\n\n\n\n\n\nblog post\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "गुलाबी रंग\n\n\n\n\n\n\nblog post\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nتعال وتذوق شيئًا جديدًا\n\n\n\n\n\n\nblog post\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -37,7 +37,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "About Me",
+    "title": "Amrutha Ajish Achuthan",
     "section": "",
     "text": "Hey there! 👋\nI’m Amrutha Ajish Achuthan, a second-year B.Tech Computer Science student at Saintgits College of Engineering. I have a strong passion for artificial intelligence and cybersecurity, and I enjoy exploring new technologies to continuously enhance my knowledge."
   },
@@ -72,64 +72,113 @@
   {
     "objectID": "index.html#interests",
     "href": "index.html#interests",
-    "title": "About Me",
+    "title": "Amrutha Ajish Achuthan",
     "section": "Interests",
     "text": "Interests\nArtificial Intelligence: Delving into the possibilities AI can offer in various fields. Cybersecurity: Exploring network security, ethical hacking, and other aspects of cybersecurity to build a secure digital future."
   },
   {
     "objectID": "index.html#current-work",
     "href": "index.html#current-work",
-    "title": "About Me",
+    "title": "Amrutha Ajish Achuthan",
     "section": "Current Work",
     "text": "Current Work\nI’m focused on building my foundational knowledge in computer science, with a particular emphasis on cybersecurity. I’m also working on various beginner-level projects that will help me gain hands-on experience."
   },
   {
     "objectID": "index.html#learning",
     "href": "index.html#learning",
-    "title": "About Me",
+    "title": "Amrutha Ajish Achuthan",
     "section": "Learning",
     "text": "Learning\n\nProgramming: Enhancing my skills in Python and C.\nCybersecurity: Learning the basics, including network security and ethical hacking."
   },
   {
     "objectID": "index.html#collaboration-opportunities",
     "href": "index.html#collaboration-opportunities",
-    "title": "About Me",
+    "title": "Amrutha Ajish Achuthan",
     "section": "Collaboration Opportunities",
     "text": "Collaboration Opportunities\nI’m looking to collaborate on beginner-level projects or competitions related to cybersecurity. I’m also interested in joining workshops and study groups that focus on cybersecurity technologies."
   },
   {
     "objectID": "index.html#looking-for-help-with",
     "href": "index.html#looking-for-help-with",
-    "title": "About Me",
+    "title": "Amrutha Ajish Achuthan",
     "section": "Looking for Help With",
     "text": "Looking for Help With\n\nInternship Opportunities: Seeking internships in cybersecurity to gain practical experience.\nNetworking: Connecting with professionals in the cybersecurity industry for mentorship and guidance."
   },
   {
     "objectID": "index.html#contact-me",
     "href": "index.html#contact-me",
-    "title": "About Me",
+    "title": "Amrutha Ajish Achuthan",
     "section": "Contact Me",
     "text": "Contact Me\nEmail: amruthaajishachuthan@gmail.com LinkedIn: LinkedIn Profile"
   },
   {
     "objectID": "index.html#pronouns",
     "href": "index.html#pronouns",
-    "title": "About Me",
+    "title": "Amrutha Ajish Achuthan",
     "section": "Pronouns",
     "text": "Pronouns\nShe/Her"
   },
   {
     "objectID": "index.html#fun-fact",
     "href": "index.html#fun-fact",
-    "title": "About Me",
+    "title": "Amrutha Ajish Achuthan",
     "section": "Fun Fact:",
     "text": "Fun Fact:\nI enjoy writing poetry and articles, and I’ve had my work published in various publications. Literature is one of my passions, and I’m excited about exploring how it resonates with technology."
   },
   {
     "objectID": "index.html#location",
     "href": "index.html#location",
-    "title": "About Me",
+    "title": "Amrutha Ajish Achuthan",
     "section": "Location:",
     "text": "Location:\nSouparnika, Kadammanitta, Pathanamthitta, Kerala, Pin: 689649"
+  },
+  {
+    "objectID": "papers.html#b.tech-in-computer-science-and-engineering",
+    "href": "papers.html#b.tech-in-computer-science-and-engineering",
+    "title": "Education",
+    "section": "",
+    "text": "Saintgits College of Engineering, Kottayam, Kerala August 2023 – Present\n\n1st Sem CGPA: 10/10\n2nd Sem CGPA: 9.95/10"
+  },
+  {
+    "objectID": "papers.html#class-11th-12th",
+    "href": "papers.html#class-11th-12th",
+    "title": "Education",
+    "section": "Class 11th & 12th",
+    "text": "Class 11th & 12th\n\nSaint Antony’s Public School, Anakkal, Kanjirappally, Kottayam, Kerala\nMay 2021 – March 2023\nMarks: 91.2%"
+  },
+  {
+    "objectID": "papers.html#class-10th",
+    "href": "papers.html#class-10th",
+    "title": "Education",
+    "section": "Class 10th",
+    "text": "Class 10th\n\nGEMS Our Own English High School, Sharjah – Girls\nJune 2020 – March 2021\nMarks: 96.2%"
+  },
+  {
+    "objectID": "workshops.html#internships-and-projects",
+    "href": "workshops.html#internships-and-projects",
+    "title": "More Details",
+    "section": "",
+    "text": "Internship in Artificial Intelligence\nQNAYDS LLP November 2023\nInternship in Cyber Security\n\nQNAYDS LLP July 2024"
+  },
+  {
+    "objectID": "workshops.html#achievements-and-activities",
+    "href": "workshops.html#achievements-and-activities",
+    "title": "More Details",
+    "section": "Achievements and Activities",
+    "text": "Achievements and Activities\n\nCapture The Flag Competition by UST February 2024\nK-Disc YIP Idea Submission February 2024\nFirst Prize in Saintgits AI Quiz December 2023\nSecond Prize in Saintgits Exponentia’23 December 2023\nIELTS Score: 8 Bands (August 2023)"
+  },
+  {
+    "objectID": "workshops.html#workshops-and-seminars",
+    "href": "workshops.html#workshops-and-seminars",
+    "title": "More Details",
+    "section": "Workshops and Seminars",
+    "text": "Workshops and Seminars\n\nUST Workshop on Cybersecurity February 2024\nProject Management Institute – WINGS 2023 Conclave September 2023\nNPTEL Workshop- AI for Signal Processing July 2024"
+  },
+  {
+    "objectID": "workshops.html#soft-skills",
+    "href": "workshops.html#soft-skills",
+    "title": "More Details",
+    "section": "Soft Skills",
+    "text": "Soft Skills\n\nDiligence\nAdaptability\nCommitment\nProblem-solving\nCreativity"
   }
 ]
