@@ -1,7 +1,46 @@
 ---
-title: "My Personal Webpage"
+title: "Amrutha Ajish Achuthan"
 ---
 
-Welcome to my personal page! I thrive on solving complex problems and love turning innovative ideas into reality. Whether I'm coding, designing, or exploring new fields, I bring dedication and curiosity to everything I do. Outside of work, I enjoy hiking, reading science fiction, and experimenting with new recipes. Here, you'll find insights into my projects, interests, and the journey I'm on to make a positive impact in the world. Thank you for visiting, and I hope you find something that inspires you!
+Hey there! 👋
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+I’m Amrutha Ajish Achuthan, a second-year B.Tech Computer Science student at Saintgits College of Engineering. I have a strong passion for artificial intelligence and cybersecurity, and I enjoy exploring new technologies to continuously enhance my knowledge.
+
+## Interests
+Artificial Intelligence: Delving into the possibilities AI can offer in various fields.
+Cybersecurity: Exploring network security, ethical hacking, and other aspects of cybersecurity to build a secure digital future.
+
+## Current Work
+
+I’m focused on building my foundational knowledge in computer science, with a particular emphasis on cybersecurity. I’m also working on various beginner-level projects that will help me gain hands-on experience.
+
+## Learning
+
+- Programming: Enhancing my skills in Python and C.
+
+- Cybersecurity: Learning the basics, including network security and ethical hacking.
+
+## Collaboration Opportunities
+I’m looking to collaborate on beginner-level projects or competitions related to cybersecurity. I’m also interested in joining workshops and study groups that focus on cybersecurity technologies.
+
+## Looking for Help With
+
+- Internship Opportunities: Seeking internships in cybersecurity to gain practical experience.
+
+- Networking: Connecting with professionals in the cybersecurity industry for mentorship and guidance.
+
+## Contact Me
+
+Email: amruthaajishachuthan@gmail.com
+LinkedIn: LinkedIn Profile
+
+## Pronouns
+She/Her
+
+
+## Fun Fact:
+I enjoy writing poetry and articles, and I’ve had my work published in various publications. Literature is one of my passions, and I’m excited about exploring how it resonates with technology.
+
+## Location:
+Souparnika, Kadammanitta, Pathanamthitta, Kerala, Pin: 689649

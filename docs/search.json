@@ -37,9 +37,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "My Personal Webpage",
+    "title": "About Me",
     "section": "",
-    "text": "Welcome to my personal page! I thrive on solving complex problems and love turning innovative ideas into reality. Whether I’m coding, designing, or exploring new fields, I bring dedication and curiosity to everything I do. Outside of work, I enjoy hiking, reading science fiction, and experimenting with new recipes. Here, you’ll find insights into my projects, interests, and the journey I’m on to make a positive impact in the world. Thank you for visiting, and I hope you find something that inspires you!\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Hey there! 👋\nI’m Amrutha Ajish Achuthan, a second-year B.Tech Computer Science student at Saintgits College of Engineering. I have a strong passion for artificial intelligence and cybersecurity, and I enjoy exploring new technologies to continuously enhance my knowledge."
   },
   {
     "objectID": "posts/another_post.html",
@@ -61,5 +61,75 @@
     "title": "تعال وتذوق شيئًا جديدًا",
     "section": "",
     "text": "وصفة برياني دم حيدر أباد\nالمكونات:\nلتحضير الأرز: - 2 كوب من أرز بسمتي طويل الحبة - 4 أكواب من الماء - 1 ملعقة صغيرة من الملح - 2-3 حبات هيل - 2 ورقات غار - 4-5 حبات قرنفل - 1 عود قرفة\nلتحضير الدجاج: - 1 كيلوغرام من قطع الدجاج - 1 كوب من الزبادي - 2 بصل متوسط، مقطع شرائح ومقلي حتى يصبح ذهبي - 2 طماطم متوسطة، مفرومة - 4-5 فصوص ثوم، مفرومة - 1 قطعة زنجبيل، مفرومة - 2-3 حبات فلفل أخضر، مفرومة - 1/2 كوب من النعناع الطازج، مفروم - 1/2 كوب من الكزبرة الطازجة، مفرومة - 1 ملعقة صغيرة من مسحوق الكركم - 1 ملعقة صغيرة من مسحوق الفلفل الأحمر - 1 ملعقة صغيرة من مسحوق الكمون - 1 ملعقة صغيرة من مسحوق الكزبرة - 1 ملعقة صغيرة من جارام ماسالا - 2-3 ملاعق كبيرة من زيت\nلتحضير الطبقات: - 1/2 كوب من الحليب - قليل من خيوط الزعفران (منقوعة في الحليب الدافئ) - 1/4 كوب من السمن أو الزبدة - ماء ورد (اختياري) - شرائح بصل مقلي (للتزيين) - كزبرة مفرومة ونعناع مفروم (للتزيين)\nطريقة التحضير:\n\nتحضير الأرز:\n\nاغسل الأرز جيداً وانقعه في الماء لمدة 30 دقيقة.\nاغلي 4 أكواب من الماء في قدر كبير وأضف إليه الملح، الهيل، ورق الغار، القرنفل، وعيدان القرفة.\nأضف الأرز المنقوع واطبخه حتى يكون نصف ناضج. صفي الأرز واتركه جانباً.\n\nتحضير الدجاج:\n\nفي وعاء كبير، امزج الزبادي، الزنجبيل، الثوم، الفلفل الأخضر، الكركم، مسحوق الفلفل الأحمر، مسحوق الكمون، مسحوق الكزبرة، والجارام ماسالا.\nأضف قطع الدجاج إلى المزيج واتركه يتبل لمدة 1-2 ساعة.\nفي مقلاة كبيرة، سخن الزيت وأضف البصل المقلي والطماطم واطبخ حتى تصبح الطماطم طرية.\nأضف الدجاج المتبل واطبخه حتى ينضج.\n\nتجهيز الطبقات:\n\nفي وعاء عميق، ضع طبقة من الأرز المسلوق ثم طبقة من الدجاج المطبوخ.\nكرر العملية حتى تنتهي من كل الأرز والدجاج.\nرش الحليب الممزوج بالزعفران فوق الطبقات.\nرش السمن أو الزبدة فوق الطبقات.\nأضف ماء الورد إذا كنت تستخدمه.\nغط الوعاء بإحكام واطبخه على نار منخفضة لمدة 20-25 دقيقة (يمكنك استخدام العجينة لإحكام الغطاء إذا لزم الأمر).\n\nالتقديم:\n\nقدم البرياني مزيناً بشرائح البصل المقلي، الكزبرة المفرومة، والنعناع المفروم.\n\n\nبالعافية!"
+  },
+  {
+    "objectID": "posts/Education.html",
+    "href": "posts/Education.html",
+    "title": "Blogpost Example",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+  {
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
+    "title": "About Me",
+    "section": "Interests",
+    "text": "Interests\nArtificial Intelligence: Delving into the possibilities AI can offer in various fields. Cybersecurity: Exploring network security, ethical hacking, and other aspects of cybersecurity to build a secure digital future."
+  },
+  {
+    "objectID": "index.html#current-work",
+    "href": "index.html#current-work",
+    "title": "About Me",
+    "section": "Current Work",
+    "text": "Current Work\nI’m focused on building my foundational knowledge in computer science, with a particular emphasis on cybersecurity. I’m also working on various beginner-level projects that will help me gain hands-on experience."
+  },
+  {
+    "objectID": "index.html#learning",
+    "href": "index.html#learning",
+    "title": "About Me",
+    "section": "Learning",
+    "text": "Learning\n\nProgramming: Enhancing my skills in Python and C.\nCybersecurity: Learning the basics, including network security and ethical hacking."
+  },
+  {
+    "objectID": "index.html#collaboration-opportunities",
+    "href": "index.html#collaboration-opportunities",
+    "title": "About Me",
+    "section": "Collaboration Opportunities",
+    "text": "Collaboration Opportunities\nI’m looking to collaborate on beginner-level projects or competitions related to cybersecurity. I’m also interested in joining workshops and study groups that focus on cybersecurity technologies."
+  },
+  {
+    "objectID": "index.html#looking-for-help-with",
+    "href": "index.html#looking-for-help-with",
+    "title": "About Me",
+    "section": "Looking for Help With",
+    "text": "Looking for Help With\n\nInternship Opportunities: Seeking internships in cybersecurity to gain practical experience.\nNetworking: Connecting with professionals in the cybersecurity industry for mentorship and guidance."
+  },
+  {
+    "objectID": "index.html#contact-me",
+    "href": "index.html#contact-me",
+    "title": "About Me",
+    "section": "Contact Me",
+    "text": "Contact Me\nEmail: amruthaajishachuthan@gmail.com LinkedIn: LinkedIn Profile"
+  },
+  {
+    "objectID": "index.html#pronouns",
+    "href": "index.html#pronouns",
+    "title": "About Me",
+    "section": "Pronouns",
+    "text": "Pronouns\nShe/Her"
+  },
+  {
+    "objectID": "index.html#fun-fact",
+    "href": "index.html#fun-fact",
+    "title": "About Me",
+    "section": "Fun Fact:",
+    "text": "Fun Fact:\nI enjoy writing poetry and articles, and I’ve had my work published in various publications. Literature is one of my passions, and I’m excited about exploring how it resonates with technology."
+  },
+  {
+    "objectID": "index.html#location",
+    "href": "index.html#location",
+    "title": "About Me",
+    "section": "Location:",
+    "text": "Location:\nSouparnika, Kadammanitta, Pathanamthitta, Kerala, Pin: 689649"
   }
 ]
